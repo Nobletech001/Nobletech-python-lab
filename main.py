@@ -1,0 +1,5 @@
+print("================================")
+print(" ALIM'S PYTHON LAB")
+print(" Samsung S23 + Termux")
+print(" Python 3.14.6")
+print("================================")
